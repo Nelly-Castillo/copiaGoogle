@@ -2,9 +2,9 @@
 
 
 ## Indice 
-* [1. Intro]([https://github.com/Nelly-Castillo/copiaGoogle/edit/main/README.md#intro](https://github.com/Nelly-Castillo/copiaGoogle/blob/main/README.md#intro))
-* [2. Que construi](https://github.com/Nelly-Castillo/copiaGoogle/edit/main/README.md#que-construi)
-* [3. Objetivo del proyecto](https://github.com/Nelly-Castillo/copiaGoogle/edit/main/README.md#objectivos-del-proyecto)
+* [1. Intro](https://github.com/Nelly-Castillo/copiaGoogle/blob/main/README.md#intro)
+* [2. Que construi](https://github.com/Nelly-Castillo/copiaGoogle/blob/main/README.md#que-construi)
+* [3. Objetivo del proyecto](https://github.com/Nelly-Castillo/copiaGoogle/blob/main/README.md#objectivos-del-proyecto)
 ****
 ## Intro 
 
